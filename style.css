@@ -28,7 +28,7 @@ button{
     transition: background-color 0.5s;
 
 }
-btton:hover{ 
+button:hover{ 
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
